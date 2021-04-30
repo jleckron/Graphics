@@ -8,3 +8,5 @@ Computer graphics for UCSC CMPS 160/L
 ## A very basic game where you can drive a car around and explore the world
 - [Repository](https://github.com/jleckron/CarGame)
 - [Demo](https://jleckron.github.io/CarGame/)
+
+### I have found Safari or Firefox to run these better than Chrome
